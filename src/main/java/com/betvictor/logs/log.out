@@ -1,0 +1,105 @@
+2022-08-24 22:08:516 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-08-24 22:08:736 INFO  HomePage :90 - Getting text from : [[ChromeDriver: chrome on WINDOWS (9c6080b200e5da2c0d898c032072c23f)] -> id: onetrust-accept-btn-handler]
+2022-08-24 22:08:699 INFO  HomePage :95 - Clicking on Gender : [[ChromeDriver: chrome on WINDOWS (9c6080b200e5da2c0d898c032072c23f)] -> xpath: //label[@for='account_gender_male']]
+2022-08-24 22:08:455 INFO  HomePage :100 - Enter First Name : [[ChromeDriver: chrome on WINDOWS (9c6080b200e5da2c0d898c032072c23f)] -> id: first_name]
+2022-08-24 22:08:63 INFO  HomePage :105 - Enter Last Name : [[ChromeDriver: chrome on WINDOWS (9c6080b200e5da2c0d898c032072c23f)] -> id: last_name]
+2022-08-24 22:08:367 INFO  HomePage :110 - Fill the Day Field : [[ChromeDriver: chrome on WINDOWS (9c6080b200e5da2c0d898c032072c23f)] -> name: day]
+2022-08-24 22:08:751 INFO  HomePage :115 - Fill the Month Field : [[ChromeDriver: chrome on WINDOWS (9c6080b200e5da2c0d898c032072c23f)] -> name: month]
+2022-08-24 22:08:135 INFO  HomePage :120 - Fill the year field : [[ChromeDriver: chrome on WINDOWS (9c6080b200e5da2c0d898c032072c23f)] -> name: year]
+2022-08-24 22:08:820 INFO  HomePage :125 - Fill the phone field : [[ChromeDriver: chrome on WINDOWS (9c6080b200e5da2c0d898c032072c23f)] -> id: phone_number]
+2022-08-24 22:08:491 INFO  HomePage :130 - click on right arrow : [[ChromeDriver: chrome on WINDOWS (9c6080b200e5da2c0d898c032072c23f)] -> xpath: //span[@class='bvs-icon is-arrow-right  ']]
+2022-08-24 22:08:411 INFO  HomePage :135 - Fill the country field : [[ChromeDriver: chrome on WINDOWS (9c6080b200e5da2c0d898c032072c23f)] -> id: account_country]
+2022-08-24 22:08:667 INFO  HomePage :140 - click on Manual address : Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='bvs-button-card cta__btn']'
+2022-08-24 22:08:671 INFO  HomePage :145 - Fill 1st line of address : [[ChromeDriver: chrome on WINDOWS (9c6080b200e5da2c0d898c032072c23f)] -> id: address1]
+2022-08-24 22:08:340 INFO  HomePage :150 - Fill 2nd line of address : [[ChromeDriver: chrome on WINDOWS (9c6080b200e5da2c0d898c032072c23f)] -> id: address2]
+2022-08-24 22:08:955 INFO  HomePage :154 - Fill 3rd line of address : [[ChromeDriver: chrome on WINDOWS (9c6080b200e5da2c0d898c032072c23f)] -> id: address3]
+2022-08-24 22:08:511 INFO  HomePage :159 - Fill the post code: [[ChromeDriver: chrome on WINDOWS (9c6080b200e5da2c0d898c032072c23f)] -> id: postcode]
+2022-08-24 22:08:139 INFO  HomePage :130 - click on right arrow : Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='bvs-icon is-arrow-right  ']'
+2022-08-24 22:08:887 INFO  HomePage :164 - Fill the email field : [[ChromeDriver: chrome on WINDOWS (9c6080b200e5da2c0d898c032072c23f)] -> id: regpath_form_email_input]
+2022-08-24 22:08:656 INFO  HomePage :169 - Fill the password field : [[ChromeDriver: chrome on WINDOWS (9c6080b200e5da2c0d898c032072c23f)] -> id: password]
+2022-08-24 22:08:335 INFO  HomePage :175 - Agree terms and condition : Proxy element for: DefaultElementLocator 'By.xpath: //label[@class='account-form__checkbox'][@for='terms_privacy_policy']'
+2022-08-24 22:08:361 INFO  HomePage :181 - Click on Create account : [[ChromeDriver: chrome on WINDOWS (9c6080b200e5da2c0d898c032072c23f)] -> xpath: //button[@type='submit']]
+2022-08-24 22:08:402 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-08-24 22:08:696 INFO  HomePage :90 - Getting text from : [[ChromeDriver: chrome on WINDOWS (ce9bf78f3cb678daedf9491d6c23f490)] -> id: onetrust-accept-btn-handler]
+2022-08-24 22:08:402 INFO  HomePage :95 - Clicking on Gender : [[ChromeDriver: chrome on WINDOWS (ce9bf78f3cb678daedf9491d6c23f490)] -> xpath: //label[@for='account_gender_male']]
+2022-08-24 22:08:192 INFO  HomePage :100 - Enter First Name : [[ChromeDriver: chrome on WINDOWS (ce9bf78f3cb678daedf9491d6c23f490)] -> id: first_name]
+2022-08-24 22:08:785 INFO  HomePage :105 - Enter Last Name : [[ChromeDriver: chrome on WINDOWS (ce9bf78f3cb678daedf9491d6c23f490)] -> id: last_name]
+2022-08-24 22:08:194 INFO  HomePage :110 - Fill the Day Field : [[ChromeDriver: chrome on WINDOWS (ce9bf78f3cb678daedf9491d6c23f490)] -> name: day]
+2022-08-24 22:08:498 INFO  HomePage :115 - Fill the Month Field : [[ChromeDriver: chrome on WINDOWS (ce9bf78f3cb678daedf9491d6c23f490)] -> name: month]
+2022-08-24 22:08:16 INFO  HomePage :120 - Fill the year field : [[ChromeDriver: chrome on WINDOWS (ce9bf78f3cb678daedf9491d6c23f490)] -> name: year]
+2022-08-24 22:08:284 INFO  HomePage :125 - Fill the phone field : [[ChromeDriver: chrome on WINDOWS (ce9bf78f3cb678daedf9491d6c23f490)] -> id: phone_number]
+2022-08-24 22:08:119 INFO  HomePage :130 - click on right arrow : [[ChromeDriver: chrome on WINDOWS (ce9bf78f3cb678daedf9491d6c23f490)] -> xpath: //span[@class='bvs-icon is-arrow-right  ']]
+2022-08-24 22:08:428 INFO  HomePage :135 - Fill the country field : [[ChromeDriver: chrome on WINDOWS (ce9bf78f3cb678daedf9491d6c23f490)] -> id: account_country]
+2022-08-24 22:08:820 INFO  HomePage :140 - click on Manual address : Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='bvs-button-card cta__btn']'
+2022-08-24 22:08:868 INFO  HomePage :145 - Fill 1st line of address : [[ChromeDriver: chrome on WINDOWS (ce9bf78f3cb678daedf9491d6c23f490)] -> id: address1]
+2022-08-24 22:08:660 INFO  HomePage :150 - Fill 2nd line of address : [[ChromeDriver: chrome on WINDOWS (ce9bf78f3cb678daedf9491d6c23f490)] -> id: address2]
+2022-08-24 22:08:636 INFO  HomePage :154 - Fill 3rd line of address : [[ChromeDriver: chrome on WINDOWS (ce9bf78f3cb678daedf9491d6c23f490)] -> id: address3]
+2022-08-24 22:08:268 INFO  HomePage :159 - Fill the post code: [[ChromeDriver: chrome on WINDOWS (ce9bf78f3cb678daedf9491d6c23f490)] -> id: postcode]
+2022-08-24 22:08:744 INFO  HomePage :130 - click on right arrow : Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='bvs-icon is-arrow-right  ']'
+2022-08-24 22:08:84 INFO  HomePage :164 - Fill the email field : [[ChromeDriver: chrome on WINDOWS (ce9bf78f3cb678daedf9491d6c23f490)] -> id: regpath_form_email_input]
+2022-08-24 22:08:472 INFO  HomePage :169 - Fill the password field : [[ChromeDriver: chrome on WINDOWS (ce9bf78f3cb678daedf9491d6c23f490)] -> id: password]
+2022-08-24 22:08:87 INFO  HomePage :175 - Agree terms and condition : Proxy element for: DefaultElementLocator 'By.xpath: //label[@class='account-form__checkbox'][@for='terms_privacy_policy']'
+2022-08-24 22:08:19 INFO  HomePage :181 - Click on Create account : [[ChromeDriver: chrome on WINDOWS (ce9bf78f3cb678daedf9491d6c23f490)] -> xpath: //button[@type='submit']]
+2022-08-24 22:08:353 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-08-24 22:08:307 INFO  HomePage :90 - Getting text from : [[ChromeDriver: chrome on WINDOWS (385fee97fa049d68bbe724bdfaf8abe5)] -> id: onetrust-accept-btn-handler]
+2022-08-24 22:08:239 INFO  HomePage :95 - Clicking on Gender : [[ChromeDriver: chrome on WINDOWS (385fee97fa049d68bbe724bdfaf8abe5)] -> xpath: //label[@for='account_gender_male']]
+2022-08-24 22:08:895 INFO  HomePage :100 - Enter First Name : [[ChromeDriver: chrome on WINDOWS (385fee97fa049d68bbe724bdfaf8abe5)] -> id: first_name]
+2022-08-24 22:08:534 INFO  HomePage :105 - Enter Last Name : [[ChromeDriver: chrome on WINDOWS (385fee97fa049d68bbe724bdfaf8abe5)] -> id: last_name]
+2022-08-24 22:08:179 INFO  HomePage :110 - Fill the Day Field : [[ChromeDriver: chrome on WINDOWS (385fee97fa049d68bbe724bdfaf8abe5)] -> name: day]
+2022-08-24 22:08:644 INFO  HomePage :115 - Fill the Month Field : [[ChromeDriver: chrome on WINDOWS (385fee97fa049d68bbe724bdfaf8abe5)] -> name: month]
+2022-08-24 22:08:407 INFO  HomePage :120 - Fill the year field : [[ChromeDriver: chrome on WINDOWS (385fee97fa049d68bbe724bdfaf8abe5)] -> name: year]
+2022-08-24 22:08:244 INFO  HomePage :125 - Fill the phone field : [[ChromeDriver: chrome on WINDOWS (385fee97fa049d68bbe724bdfaf8abe5)] -> id: phone_number]
+2022-08-24 22:08:964 INFO  HomePage :130 - click on right arrow : [[ChromeDriver: chrome on WINDOWS (385fee97fa049d68bbe724bdfaf8abe5)] -> xpath: //span[@class='bvs-icon is-arrow-right  ']]
+2022-08-24 22:08:243 INFO  HomePage :135 - Fill the country field : [[ChromeDriver: chrome on WINDOWS (385fee97fa049d68bbe724bdfaf8abe5)] -> id: account_country]
+2022-08-24 22:08:547 INFO  HomePage :140 - click on Manual address : Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='bvs-button-card cta__btn']'
+2022-08-24 22:08:487 INFO  HomePage :145 - Fill 1st line of address : [[ChromeDriver: chrome on WINDOWS (385fee97fa049d68bbe724bdfaf8abe5)] -> id: address1]
+2022-08-24 22:08:195 INFO  HomePage :150 - Fill 2nd line of address : [[ChromeDriver: chrome on WINDOWS (385fee97fa049d68bbe724bdfaf8abe5)] -> id: address2]
+2022-08-24 22:08:943 INFO  HomePage :154 - Fill 3rd line of address : [[ChromeDriver: chrome on WINDOWS (385fee97fa049d68bbe724bdfaf8abe5)] -> id: address3]
+2022-08-24 22:08:779 INFO  HomePage :159 - Fill the post code: [[ChromeDriver: chrome on WINDOWS (385fee97fa049d68bbe724bdfaf8abe5)] -> id: postcode]
+2022-08-24 22:08:719 INFO  HomePage :130 - click on right arrow : Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='bvs-icon is-arrow-right  ']'
+2022-08-24 22:08:980 INFO  HomePage :164 - Fill the email field : [[ChromeDriver: chrome on WINDOWS (385fee97fa049d68bbe724bdfaf8abe5)] -> id: regpath_form_email_input]
+2022-08-24 22:08:495 INFO  HomePage :169 - Fill the password field : [[ChromeDriver: chrome on WINDOWS (385fee97fa049d68bbe724bdfaf8abe5)] -> id: password]
+2022-08-24 22:08:450 INFO  HomePage :175 - Agree terms and condition : Proxy element for: DefaultElementLocator 'By.xpath: //label[@class='account-form__checkbox'][@for='terms_privacy_policy']'
+2022-08-24 22:08:80 INFO  HomePage :181 - Click on Create account : [[ChromeDriver: chrome on WINDOWS (385fee97fa049d68bbe724bdfaf8abe5)] -> xpath: //button[@type='submit']]
+2022-08-24 22:08:359 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-08-24 22:08:850 INFO  HomePage :90 - Getting text from : [[ChromeDriver: chrome on WINDOWS (a9fc256ef88ecdfaec532c88b6112508)] -> id: onetrust-accept-btn-handler]
+2022-08-24 22:08:888 INFO  HomePage :95 - Clicking on Gender : [[ChromeDriver: chrome on WINDOWS (a9fc256ef88ecdfaec532c88b6112508)] -> xpath: //label[@for='account_gender_male']]
+2022-08-24 22:08:502 INFO  HomePage :100 - Enter First Name : [[ChromeDriver: chrome on WINDOWS (a9fc256ef88ecdfaec532c88b6112508)] -> id: first_name]
+2022-08-24 22:08:42 INFO  HomePage :105 - Enter Last Name : [[ChromeDriver: chrome on WINDOWS (a9fc256ef88ecdfaec532c88b6112508)] -> id: last_name]
+2022-08-24 22:08:304 INFO  HomePage :110 - Fill the Day Field : [[ChromeDriver: chrome on WINDOWS (a9fc256ef88ecdfaec532c88b6112508)] -> name: day]
+2022-08-24 22:08:609 INFO  HomePage :115 - Fill the Month Field : [[ChromeDriver: chrome on WINDOWS (a9fc256ef88ecdfaec532c88b6112508)] -> name: month]
+2022-08-24 22:08:867 INFO  HomePage :120 - Fill the year field : [[ChromeDriver: chrome on WINDOWS (a9fc256ef88ecdfaec532c88b6112508)] -> name: year]
+2022-08-24 22:08:599 INFO  HomePage :125 - Fill the phone field : [[ChromeDriver: chrome on WINDOWS (a9fc256ef88ecdfaec532c88b6112508)] -> id: phone_number]
+2022-08-24 22:08:87 INFO  HomePage :130 - click on right arrow : [[ChromeDriver: chrome on WINDOWS (a9fc256ef88ecdfaec532c88b6112508)] -> xpath: //span[@class='bvs-icon is-arrow-right  ']]
+2022-08-24 22:08:189 INFO  HomePage :135 - Fill the country field : [[ChromeDriver: chrome on WINDOWS (a9fc256ef88ecdfaec532c88b6112508)] -> id: account_country]
+2022-08-24 22:08:747 INFO  HomePage :140 - click on Manual address : Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='bvs-button-card cta__btn']'
+2022-08-24 22:08:17 INFO  HomePage :145 - Fill 1st line of address : [[ChromeDriver: chrome on WINDOWS (a9fc256ef88ecdfaec532c88b6112508)] -> id: address1]
+2022-08-24 22:08:713 INFO  HomePage :150 - Fill 2nd line of address : [[ChromeDriver: chrome on WINDOWS (a9fc256ef88ecdfaec532c88b6112508)] -> id: address2]
+2022-08-24 22:08:857 INFO  HomePage :154 - Fill 3rd line of address : [[ChromeDriver: chrome on WINDOWS (a9fc256ef88ecdfaec532c88b6112508)] -> id: address3]
+2022-08-24 22:08:276 INFO  HomePage :159 - Fill the post code: [[ChromeDriver: chrome on WINDOWS (a9fc256ef88ecdfaec532c88b6112508)] -> id: postcode]
+2022-08-24 22:08:644 INFO  HomePage :130 - click on right arrow : Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='bvs-icon is-arrow-right  ']'
+2022-08-24 22:08:992 INFO  HomePage :164 - Fill the email field : [[ChromeDriver: chrome on WINDOWS (a9fc256ef88ecdfaec532c88b6112508)] -> id: regpath_form_email_input]
+2022-08-24 22:08:875 INFO  HomePage :169 - Fill the password field : [[ChromeDriver: chrome on WINDOWS (a9fc256ef88ecdfaec532c88b6112508)] -> id: password]
+2022-08-24 22:08:412 INFO  HomePage :175 - Agree terms and condition : Proxy element for: DefaultElementLocator 'By.xpath: //label[@class='account-form__checkbox'][@for='terms_privacy_policy']'
+2022-08-24 22:08:808 INFO  HomePage :181 - Click on Create account : [[ChromeDriver: chrome on WINDOWS (a9fc256ef88ecdfaec532c88b6112508)] -> xpath: //button[@type='submit']]
+2022-08-24 22:08:353 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-08-24 22:08:589 INFO  HomePage :90 - Getting text from : [[ChromeDriver: chrome on WINDOWS (84adae907af56d3a198d74f1b4fc862f)] -> id: onetrust-accept-btn-handler]
+2022-08-24 22:08:288 INFO  HomePage :95 - Clicking on Gender : [[ChromeDriver: chrome on WINDOWS (84adae907af56d3a198d74f1b4fc862f)] -> xpath: //label[@for='account_gender_male']]
+2022-08-24 22:08:921 INFO  HomePage :100 - Enter First Name : [[ChromeDriver: chrome on WINDOWS (84adae907af56d3a198d74f1b4fc862f)] -> id: first_name]
+2022-08-24 22:08:642 INFO  HomePage :105 - Enter Last Name : [[ChromeDriver: chrome on WINDOWS (84adae907af56d3a198d74f1b4fc862f)] -> id: last_name]
+2022-08-24 22:08:156 INFO  HomePage :110 - Fill the Day Field : [[ChromeDriver: chrome on WINDOWS (84adae907af56d3a198d74f1b4fc862f)] -> name: day]
+2022-08-24 22:08:532 INFO  HomePage :115 - Fill the Month Field : [[ChromeDriver: chrome on WINDOWS (84adae907af56d3a198d74f1b4fc862f)] -> name: month]
+2022-08-24 22:08:842 INFO  HomePage :120 - Fill the year field : [[ChromeDriver: chrome on WINDOWS (84adae907af56d3a198d74f1b4fc862f)] -> name: year]
+2022-08-24 22:08:644 INFO  HomePage :125 - Fill the phone field : [[ChromeDriver: chrome on WINDOWS (84adae907af56d3a198d74f1b4fc862f)] -> id: phone_number]
+2022-08-24 22:08:555 INFO  HomePage :130 - click on right arrow : [[ChromeDriver: chrome on WINDOWS (84adae907af56d3a198d74f1b4fc862f)] -> xpath: //span[@class='bvs-icon is-arrow-right  ']]
+2022-08-24 22:08:724 INFO  HomePage :135 - Fill the country field : [[ChromeDriver: chrome on WINDOWS (84adae907af56d3a198d74f1b4fc862f)] -> id: account_country]
+2022-08-24 22:08:114 INFO  HomePage :140 - click on Manual address : Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='bvs-button-card cta__btn']'
+2022-08-24 22:08:925 INFO  HomePage :145 - Fill 1st line of address : [[ChromeDriver: chrome on WINDOWS (84adae907af56d3a198d74f1b4fc862f)] -> id: address1]
+2022-08-24 22:08:720 INFO  HomePage :150 - Fill 2nd line of address : [[ChromeDriver: chrome on WINDOWS (84adae907af56d3a198d74f1b4fc862f)] -> id: address2]
+2022-08-24 22:08:707 INFO  HomePage :154 - Fill 3rd line of address : [[ChromeDriver: chrome on WINDOWS (84adae907af56d3a198d74f1b4fc862f)] -> id: address3]
+2022-08-24 22:08:548 INFO  HomePage :159 - Fill the post code: [[ChromeDriver: chrome on WINDOWS (84adae907af56d3a198d74f1b4fc862f)] -> id: postcode]
+2022-08-24 22:08:135 INFO  HomePage :130 - click on right arrow : Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='bvs-icon is-arrow-right  ']'
+2022-08-24 22:08:87 INFO  HomePage :164 - Fill the email field : [[ChromeDriver: chrome on WINDOWS (84adae907af56d3a198d74f1b4fc862f)] -> id: regpath_form_email_input]
+2022-08-24 22:08:667 INFO  HomePage :169 - Fill the password field : [[ChromeDriver: chrome on WINDOWS (84adae907af56d3a198d74f1b4fc862f)] -> id: password]
+2022-08-24 22:08:348 INFO  HomePage :175 - Agree terms and condition : Proxy element for: DefaultElementLocator 'By.xpath: //label[@class='account-form__checkbox'][@for='terms_privacy_policy']'
+2022-08-24 22:08:775 INFO  HomePage :181 - Click on Create account : [[ChromeDriver: chrome on WINDOWS (84adae907af56d3a198d74f1b4fc862f)] -> xpath: //button[@type='submit']]

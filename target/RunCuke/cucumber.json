@@ -1,0 +1,120 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 14387193500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUP()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "User should sign-up page successfully",
+        "description": "",
+        "id": "user-checking-functionality;user-should-sign-up-page-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 2138841900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 964045400,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I am on the sign-up Homepage",
+            "match": {
+              "location": "MyStepdefs.iAmOnTheSignUpHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5932011800,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I complete personal details and click next",
+            "match": {
+              "location": "MyStepdefs.iCompletePersonalDetailsAndClickNext()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 46570783700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I complete address details and click next",
+            "match": {
+              "location": "MyStepdefs.iCompleteAddressDetailsAndClickNext()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 29637040700,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I complete details on account section and click on create account",
+            "match": {
+              "location": "MyStepdefs.iCompleteDetailsOnAccountSectionAndClickOnCreateAccount()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 385077300,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I should see \"Account Created\" and \"Please select your Welcome Bonus\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Account Created",
+                  "offset": 14
+                },
+                {
+                  "val": "Please select your Welcome Bonus",
+                  "offset": 36
+                }
+              ],
+              "location": "MyStepdefs.iShouldSeeAnd(String,String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 2,
+            "name": "@testB"
+          }
+        ]
+      }
+    ],
+    "name": "User Checking Functionality",
+    "description": "",
+    "id": "user-checking-functionality",
+    "keyword": "Feature",
+    "uri": "homepage.feature"
+  }
+]
